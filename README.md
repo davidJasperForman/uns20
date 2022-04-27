@@ -81,7 +81,7 @@ First, obtain PathTrack and YT-Walking datasets:
 
 Extract video frames from YT-Walking mp4 files:
 
-	python scripts/ytw-extract.py /home/ubuntu/data/
+	python scripts/extract.py /home/ubuntu/data/yt-walking/
 
 Convert MOT17 object detections to uniform JSON format:
 
